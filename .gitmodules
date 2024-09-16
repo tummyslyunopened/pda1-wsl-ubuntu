@@ -1,0 +1,3 @@
+[submodule "config-manager"]
+	path = config-manager
+	url = github:tummyslyunopened/config-manager
